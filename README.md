@@ -1,2 +1,2 @@
-# pages
+# www
 krakau.dev
